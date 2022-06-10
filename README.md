@@ -8,7 +8,7 @@
 
 - Choose the part of the page where you want the box to reside
 
-- * Copy-paste the following code snippet and enter the slug of the challenge that you want to insert:
+- Copy-paste the following code snippet and enter the slug of the challenge that you want to insert:
 
     ```
       {% endverbatim%}
