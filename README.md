@@ -19,6 +19,6 @@
 
 - Commit these changes to the `staging/master` branch
 
-- After committing these changes, our servers will automatically load them in approximately 10 minutes
+- After committing these changes, algorand developer portal servers will automatically load them in approximately 10 minutes
 
 - That’s it! Now you have the box 🚀
