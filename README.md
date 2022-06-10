@@ -1,4 +1,5 @@
-### HOW TO CREATE A CHALLENGE BOX 
+# HOW TO CREATE A CHALLENGE BOX 
+
 - Assume that I want to add a relevant challenge box to this page:
 
   ![2F3E613D-ECE8-4B0B-9D65-59CAC151573D](https://user-images.githubusercontent.com/44210825/173040949-6df7fe6f-fbbe-4e8f-aecc-3cb1615083ae.JPG)
@@ -20,4 +21,4 @@
 
 - After committing these changes, our servers will automatically load them in approximately 10 minutes
 
-- That’s it! Now you have the box.
+- That’s it! Now you have the box 🚀
